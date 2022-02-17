@@ -1,1 +1,1 @@
-# quantum-chem_algorithms
+# quantum chemistry software tools usage
